@@ -1,0 +1,23 @@
+* {
+  outline: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+img,
+fieldset {
+  border: 0;
+}
+input,
+label,
+select {
+  font-family: inherit;
+  border: none;
+  vertical-align: middle;
+}
+textarea {
+  font-family: inherit;
+  vertical-align: top;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlbHBlcnMvX3Jlc2V0Lmxlc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxhQUFBOztBQUVKO0VBQ0ksU0FBQTtFQUNBLFVBQUE7O0FBRUo7QUFDQTtFQUNJLFNBQUE7O0FBR0o7QUFDQTtBQUNBO0VBQ0ksb0JBQUE7RUFDQSxZQUFBO0VBQ0Esc0JBQUE7O0FBRUo7RUFDSSxvQkFBQTtFQUNBLG1CQUFBIn0= */
